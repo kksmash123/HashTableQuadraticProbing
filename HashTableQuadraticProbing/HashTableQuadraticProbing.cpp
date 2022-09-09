@@ -73,6 +73,9 @@ int main()
 	//searching in the hashtable
 	search(ht,27);
 
+	//unsuccessful search 
+	search(ht, 73);
+
 
 
 
